@@ -1,0 +1,21 @@
+# Datasets
+*.csv
+*.xlsx
+*.json
+
+# Hugging Face Model / Training outputs
+results/
+checkpoint-*/
+runs/
+
+# Python caches and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
